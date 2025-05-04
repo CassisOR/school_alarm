@@ -1,5 +1,5 @@
 build/
 dist/
-pygame_muisic.py
+pygame_music.py
 pyinstaller_command.txt
 bell.png
