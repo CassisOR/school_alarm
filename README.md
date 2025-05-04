@@ -14,6 +14,12 @@ school alarm.
 - [ ] ...
 
 
+<br/>
+
+![스크린샷 2025-05-04 185232](https://github.com/user-attachments/assets/0c3790f2-0b68-4b4b-99f1-690172c296c6)
+
+
+<br/>
 
 ### pyinstaller command option
 
