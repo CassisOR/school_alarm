@@ -3,6 +3,11 @@ school alarm.
 
 
 
+windows11
+
+
+
+
 ### pyinstaller command option
 
 ```bash
