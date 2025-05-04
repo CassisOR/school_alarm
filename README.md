@@ -1,7 +1,9 @@
 # school_alarm
 school alarm. 
 
-
+매시 정각과
+매시 50분에
+알람이 울립니다.
 
 환경: windows11
 
