@@ -1,0 +1,5 @@
+build/
+dist/
+pygame_muisic.py
+pyinstaller_command.txt
+bell.png
