@@ -3,8 +3,15 @@ school alarm.
 
 
 
-windows11
+환경: windows11
 
+
+
+## Check List
+- [x] .exe
+- [x] 볼륨 조절
+- [ ] 시간 설정
+- [ ] 
 
 
 
